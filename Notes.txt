@@ -1,0 +1,16 @@
+******************************************HARI OHM*********************************************
+
+A. Installation:
+
+    1. npm run dev
+
+B. Setup of API:
+
+    1. Create a folder api inside src
+    2. /api
+            /route.js
+            /bardapi.js
+    
+C. Google API:
+
+    1. Use Gemini AI model.
